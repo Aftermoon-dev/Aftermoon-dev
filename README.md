@@ -1,9 +1,8 @@
-## Minjae Seon a.k.a. Aftermoon 
+## Minjae Seon a.k.a. Aftermoon  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAftermoon-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hello! Welcome to My Github!
 
 I am interested in Android Application, Web Application, Data Analysis.... and More!
-
 
 ## Stack
 - Kotlin
@@ -16,7 +15,6 @@ I am interested in Android Application, Web Application, Data Analysis.... and M
 
 <div align=center> 
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAftermoon-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddol0225@gmail.com)](mailto:ddol0225@gmail.com)
 
 </div>
