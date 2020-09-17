@@ -1,13 +1,23 @@
-### Minjae Seon a.k.a. Aftermoon
+## Minjae Seon a.k.a. Aftermoon 
 
 Hello! Welcome to My Github!
 
 I am interested in Android Application, Web Application, Data Analysis.... and More!
 
+
+## Stack
+- Kotlin
+- Java
+- PHP
+- Vue.js
+- Python
+
+..And Will be added
+
 <div align=center> 
-  
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAftermoon-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddol0225@gmail.com)](mailto:ddol0225@gmail.com)
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/minjae.seon.7/)](https://www.facebook.com/minjae.seon.7/)
 
 </div>
 
