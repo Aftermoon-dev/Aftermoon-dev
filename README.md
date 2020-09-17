@@ -9,7 +9,7 @@ I am interested in Android Application, Web Application, Data Analysis.... and M
 - Kotlin
 - Java
 - PHP
-- Vue.js
+- Javascript (Vue.js)
 - Python
 
 ..And Will be added
