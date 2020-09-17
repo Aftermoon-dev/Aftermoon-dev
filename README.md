@@ -14,6 +14,7 @@ I am interested in Android Application, Web Application, Data Analysis.... and M
 - PHP
 - Javascript (Vue.js)
 - Python
+- C
 
 ..And Will be added
 
