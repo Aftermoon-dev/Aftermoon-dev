@@ -4,6 +4,10 @@ Hello! Welcome to My Github!
 
 I am interested in Android Application, Web Application, Data Analysis.... and More!
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Stack
 - Kotlin
 - Java
@@ -13,6 +17,3 @@ I am interested in Android Application, Web Application, Data Analysis.... and M
 
 ..And Will be added
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
