@@ -18,3 +18,8 @@ I am interested in Android Application, Web Application, Data Analysis.... and M
 
 ..And Will be added
 
+## URL
+
+[Aftermoon's Dev Blog (Korean Only)](https://blog.aftermoon.dev/)
+
+[Play Store Developer Page](https://play.google.com/store/apps/developer?id=Aftermoon)
