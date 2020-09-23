@@ -2,7 +2,7 @@
 
 Hello! Welcome to My Github!
 
-I'm Undergraduate Student in [Department of Software](https://sw.gachon.ac.kr/), [Gachon Univ.](http://gachon.ac.kr/) in South Korea!
+I'm Undergraduate Student at [Department of Software](https://sw.gachon.ac.kr/), [Gachon Univ.](http://gachon.ac.kr/) in South Korea!
 
 I am interested in Android Application, Server Programming, Data Analysis.... and More!
 
