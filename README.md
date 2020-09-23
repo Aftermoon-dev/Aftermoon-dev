@@ -4,7 +4,7 @@ Hello! Welcome to My Github!
 
 I'm Undergraduate Student in [Department of Software](https://sw.gachon.ac.kr/), [Gachon Univ.](http://gachon.ac.kr/) in South Korea!
 
-I am interested in Android Application, Web Application, Data Analysis.... and More!
+I am interested in Android Application, Server Programming, Data Analysis.... and More!
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
