@@ -14,6 +14,7 @@ I am interested in Android Application, Server Programming, Data Analysis.... an
 - Kotlin
 - Java
 - PHP
+- Arduino
 - Javascript (Vue.js)
 - Python
 - C
