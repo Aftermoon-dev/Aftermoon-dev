@@ -60,11 +60,11 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
 
 ### University Project
   - 2019-1 Web Programming Term Project 'WhereRU'
-    * 가천대학교 Campus Map Image를 이용해 각 건물과 주변 식당에 대해 소개하는 Web Page
+    * 가천대학교 Campus Map Image를 이용해 각 건물과 주변 식당에 대해 소개하는 Website (HTML/CSS + Vanila JS)
     * [Github Repository](https://github.com/Aftermoon-dev/WhereRU)
    
   - 2019-2 Robotics Term Project 'Mini Fountain'
-    * 아두이노, 워터 펌프 모듈, 소리 센서 및 블루투스 모듈을 활용한 미니 분수 시스템 및 컨트롤용 Android Application
+    * Arduino와 각종 모듈을 이용한 미니 분수 System 및 Bluetooth를 통한 System Control Android Application
     * [Github Repository](https://github.com/Aftermoon-dev/Mini-Fountain)
 
   - View404
