@@ -15,7 +15,7 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
  - Data Analysis
  
 ## Programming Stack
- - Kotlin
+ - **Kotlin**
  - Java
  - Arduino
  - Python
