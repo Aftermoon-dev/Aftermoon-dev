@@ -33,20 +33,20 @@ I am interested in Android Application, Server Programming, Data Analysis.... an
  - 어람중학교 (Eoram Middle School)
     * 어람중학교 식단 및 일정을 볼 수 있는 Android Application
     * [Github Repository](https://github.com/Aftermoon-dev/EoramMidSch)
-    * [제 1회 우분투 한국 커뮤니티 & 국민대학교 오픈소스 식단 앱 공모전 우수상 수상작](https://forum.ubuntu-kr.org/viewtopic.php?t=28337)
+    * 제 1회 우분투 한국 커뮤니티 & 국민대학교 오픈소스 식단 앱 공모전 우수상 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?t=28337)
     
  - 오남고등학교 (Onam High School)
     * 오남고등학교 식단 및 일정을 볼 수 있는 Android Application
     * [Play Store](https://play.google.com/store/apps/details?id=darkhost.onamhighsch)
     * [GitHub Repository](https://github.com/Aftermoon-dev/OnamHighSch)
-    * [제 2회 우분투 한국 커뮤니티 x 국민대학교 전국 청소년 오픈소스 앱 공모전 수상작](https://forum.ubuntu-kr.org/viewtopic.php?f=2&t=29252)
+    * 제 2회 우분투 한국 커뮤니티 x 국민대학교 전국 청소년 오픈소스 앱 공모전 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?f=2&t=29252)
      
  - 줄임말 변환기
     * 웹페이지의 입력창에 특정 문자를 입력하면 미리 설정한 글자로 치환하는 Browser Extension
     * [Chrome Web Store](https://chrome.google.com/webstore/detail/%EC%A4%84%EC%9E%84%EB%A7%90-%EB%B3%80%ED%99%98%EA%B8%B0/cphnlniilicaiddjekdhpnhhcgjanjmi)
     * [Naver Whale Store](https://store.whale.naver.com/detail/bhkpphkbomelmkadobdpdnngcoikjmkj)
     * [Github Repository](https://github.com/Aftermoon-dev/AbbrtoOriginal)
-    * [2019 가천대학교 아르테크네센터 G-Software Challenge 우수상 수상작](https://artechne.gachon.ac.kr/ko/all/contest/view/1667)
+    * 2019 가천대학교 아르테크네센터 G-Software Challenge 우수상 수상작 [(관련 링크)](https://artechne.gachon.ac.kr/ko/all/contest/view/1667)
     
  - PairingPlay
     * 블루투스로 미디어를 재생할 수 있는 기기를 연결하면 자동으로 음악 플레이어를 재생하고 설정한 앱을 실행하는 Android Application
