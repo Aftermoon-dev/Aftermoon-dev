@@ -37,13 +37,13 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
  - 어람중학교 (Eoram Middle School)
     * 어람중학교 식단 및 일정을 볼 수 있는 Android Application
     * [Github Repository](https://github.com/Aftermoon-dev/EoramMidSch)
-    * 제 1회 우분투 한국 커뮤니티 & 국민대학교 오픈소스 식단 앱 공모전 우수상 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?t=28337)
+    * 2015 제 1회 우분투 한국 커뮤니티 & 국민대학교 오픈소스 식단 앱 공모전 우수상 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?t=28337)
     
  - 오남고등학교 (Onam High School)
     * 오남고등학교 식단 및 일정을 볼 수 있는 Android Application
     * [Play Store](https://play.google.com/store/apps/details?id=darkhost.onamhighsch)
     * [GitHub Repository](https://github.com/Aftermoon-dev/OnamHighSch)
-    * 제 2회 우분투 한국 커뮤니티 x 국민대학교 전국 청소년 오픈소스 앱 공모전 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?f=2&t=29252)
+    * 2016 제 2회 우분투 한국 커뮤니티 x 국민대학교 전국 청소년 오픈소스 앱 공모전 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?f=2&t=29252)
      
  - 줄임말 변환기
     * 웹페이지의 입력창에 특정 문자를 입력하면 미리 설정한 글자로 치환하는 Browser Extension
