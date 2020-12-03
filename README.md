@@ -71,7 +71,7 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
     * Android Application에서 쉽게 Error Layout을 띄울 수 있게 하는 Android Library (개발 참여)
     * [Github Repository](https://github.com/BlueCat-Community/View404)
     
-  - IndianPoker
+  - 2020-2 Algorithm Term Project 'IndianPoker'
     * '인디언 포커'를 컴퓨터와 플레이 할 수 있는 Android Application (Android 담당)
     * [Github Repository](https://github.com/Aftermoon-dev/IndianPoker/)
     
