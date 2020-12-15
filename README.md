@@ -74,6 +74,11 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
   - 2020-2 Algorithm Term Project 'IndianPoker'
     * '인디언 포커'를 컴퓨터와 플레이 할 수 있는 Android Application (Android 담당)
     * [Github Repository](https://github.com/Aftermoon-dev/IndianPoker/)
+  
+  - 2020-2 Network Term Project 'Closeheart'
+    * Java Swing + Database + TCP Socket 통신을 이용한 Java Program
+    * [Github Repository (Server)](https://github.com/CloseHeart/closeheart-server)
+    * [Github Repository (Client)](https://github.com/CloseHeart/closeheart-client)
     
 ## URL
 [Aftermoon's Dev Blog (Korean Only)](https://blog.aftermoon.dev/)
