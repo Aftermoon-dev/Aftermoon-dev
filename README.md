@@ -46,7 +46,7 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
     * 2016 제 2회 우분투 한국 커뮤니티 x 국민대학교 전국 청소년 오픈소스 앱 공모전 수상작 [(관련 링크)](https://forum.ubuntu-kr.org/viewtopic.php?f=2&t=29252)
      
  - 줄임말 변환기
-    * 웹페이지의 입력창에 특정 문자를 입력하면 미리 설정한 글자로 치환하는 Browser Extension
+    * 웹페이지의 입력창에 특정 문자를 입력하면 미리 설정한 글자로 치환하는 Browser Extension (Vue.js)
     * [Chrome Web Store](https://chrome.google.com/webstore/detail/%EC%A4%84%EC%9E%84%EB%A7%90-%EB%B3%80%ED%99%98%EA%B8%B0/cphnlniilicaiddjekdhpnhhcgjanjmi)
     * [Naver Whale Store](https://store.whale.naver.com/detail/bhkpphkbomelmkadobdpdnngcoikjmkj)
     * [Github Repository](https://github.com/Aftermoon-dev/AbbrtoOriginal)
@@ -54,7 +54,12 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
     
  - PairingPlay
     * 블루투스로 미디어를 재생할 수 있는 기기를 연결하면 자동으로 음악 플레이어를 재생하고 설정한 앱을 실행하는 Android Application
+    * MVP / RxJava 활용
     * [Play Store](https://play.google.com/store/apps/details?id=dev.aftermoon.pairingplay)
+ - 가천 Grade
+    * 가천대학교 성적 정보를 쉽게 확인할 수 있는 Android Application
+    * MVVM / RxJava / Retrofit 활용
+    * [Play Store](https://play.google.com/store/apps/details?id=dev.aftermoon.gachongrade)
     
 ----------------------
 
