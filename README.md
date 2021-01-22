@@ -85,6 +85,15 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
     * [Github Repository (Server)](https://github.com/CloseHeart/closeheart-server)
     * [Github Repository (Client)](https://github.com/CloseHeart/closeheart-client)
     
+----------------------
+
+### Outsourcing
+ - (Android) Bluetooth 기기 Control 애플리케이션 외주
+ - (Android) 커뮤니티 애플리케이션 외주
+ - (Android) 의상 관련 애플리케이션 외주
+ - (Android) BLE 기반 소지품 관리 애플리케이션 외주
+ - (Android) 대중교통 관련 애플리케이션 외주
+
 ## URL
 [Aftermoon's Dev Blog (Korean Only)](https://blog.aftermoon.dev/)
 
