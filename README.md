@@ -11,8 +11,9 @@ I'm studying at [Department of Software, Gachon University](https://sw.gachon.ac
 
 ## Interests
  - Android Application
- - Server / Network
- - Data Analysis
+ - Back-end Programming
+ - Server Engineering
+ - Network
  
 ## Programming Stack
  - **Kotlin**
