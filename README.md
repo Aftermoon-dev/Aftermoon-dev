@@ -10,7 +10,7 @@ If you have question, Please E-mail here! [![Gmail](https://img.shields.io/badge
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portfolio
+## Portfolio (Korean)
 https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f
 
 ## URL
