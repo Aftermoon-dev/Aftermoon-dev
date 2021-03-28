@@ -2,7 +2,7 @@
 
 👋 Hello! Welcome to My Github!
 
-Current, I'm Undergraduate at [Department of Software, Gachon University](https://sw.gachon.ac.kr/)!
+Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/)!
 
 If you have question, Please E-mail here! [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddol0225@gmail.com)](mailto:ddol0225@gmail.com)
 
