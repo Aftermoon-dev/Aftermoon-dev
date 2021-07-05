@@ -9,9 +9,10 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&layout=compact&hide=HTML)](https://github.com/Aftermoon-dev/)
 
 ## Link
-
-[Portfolio (Korean)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
-
-[Aftermoon's Dev Blog (Korean Only)](https://blog.aftermoon.dev/)
-
-[Play Store Developer Page](https://play.google.com/store/apps/developer?id=Aftermoon)
+<div align=center>
+  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=notion)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+   
+  [![Dev Blog](https://img.shields.io/badge/-Dev%20Blog-blue?logo=github)](https://blog.aftermoon.dev/)
+  
+</div>
