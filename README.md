@@ -11,8 +11,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 ## Link
 <div align=center>
   
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=notion)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
-   
-  [![Dev Blog](https://img.shields.io/badge/-Dev%20Blog-blue?logo=github)](https://blog.aftermoon.dev/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?logo=notion)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+  [![Dev Blog](https://img.shields.io/badge/-Dev%20Blog-black?logo=github)](https://blog.aftermoon.dev/)
   
 </div>
