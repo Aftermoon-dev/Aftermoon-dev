@@ -65,7 +65,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
@@ -75,7 +75,8 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 <div align=center>
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio%20(Korean)-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
   [![Dev Blog](https://img.shields.io/badge/github.io-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://blog.aftermoon.dev/)
   
 </div>
