@@ -2,7 +2,7 @@
 
 👋 Hello! Welcome to My Github!
 
-Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/). Also, I am an Research Assistant (RA) at AIoT Lab.
+Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/). Also, I am an Research Assistant (RA) at INC Lab.
 
 ## Stats 
 <div align=center>
