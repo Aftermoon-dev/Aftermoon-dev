@@ -68,7 +68,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 <div align=center>
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20(Korean)-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+  [![Portfolio](https://img.shields.io/badge/Portfolio%20(Korean)-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://winter-cod-879.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
   [![Dev Blog](https://img.shields.io/badge/github.io-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://blog.aftermoon.dev/)
   
 </div>
