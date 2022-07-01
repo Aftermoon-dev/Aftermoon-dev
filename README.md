@@ -2,7 +2,7 @@
  
 👋 Hello! Welcome to My Github!
 
-Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/). Also, I am an Research Assistant (RA) at [INC Lab](https://sites.google.com/gachon.ac.kr/inclab/).
+Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/).
 
 ## Stats 
 <div align=center>
@@ -32,7 +32,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 
 </div>
 
-### Libraries and Frameworks
+### Libraries & Frameworks
 <div align="center">
   
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -54,6 +54,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -64,6 +65,7 @@ Currently, I studying at [Department of Software, Gachon University](https://sw.
 <div align="center">
   
   ![Apache Web Server](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
