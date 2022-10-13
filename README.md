@@ -2,7 +2,8 @@
  
 👋 Hello! Welcome to My Github!
 
-Currently, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/).
+Currently, I working at [Matching Squad, Softsquared](https://softsquared.com/).
+Also, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/).
 
 ## Stats 
 <div align=center>
