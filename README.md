@@ -1,10 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minjae%20Seon%20(Aftermoon-dev)&fontSize=50&animation=fadeOut&fontAlignY=30)
  
 👋 Hello! Welcome to My Github!
+  
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
+ [![Portfolio (Korean)](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+ 
 
-Currently, I working at [Matching Squad, Softsquared](https://softsquared.com/).
-
-Also, I studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/).
+## Careers
+- Undergraduate @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
+- Research Assistant @ [Intelligent Networking and Computing Lab.](https://sites.google.com/gachon.ac.kr/inclab/), [School of Computing](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (Advisor: [Prof. Jaehyuk Choi](https://sites.google.com/gachon.ac.kr/inclab/team#h.si9zegtfi8r5), 2021.03 ~ 2022.06)
+- Education Leader, Android Part Leader @ 1st [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.08 ~ 2022.02)
+- Education Leader @ 2nd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.08 ~ 2022.02)
+- Parttime Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
+- Director of Operations @ [Central MakeUs Challenge Context Exhibit (CMC CX)](https://makeus.in/cmc) (2022.09 ~ 2022.11)
+- **Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ Current)**
 
 ## Stats 
 <div align=center>
@@ -43,6 +52,7 @@ Also, I studying at [Department of Software, Gachon University](https://sw.gacho
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   
 </div>
 
@@ -72,14 +82,6 @@ Also, I studying at [Department of Software, Gachon University](https://sw.gacho
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-</div>
-
-### Link
-<div align=center>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20(Korean)-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
-  [![Dev Blog](https://img.shields.io/badge/github.io-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://blog.aftermoon.dev/)
-  
 </div>
