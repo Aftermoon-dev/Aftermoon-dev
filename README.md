@@ -12,6 +12,7 @@
 - Education Leader, Android Part Leader @ 1st [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.08 ~ 2022.02)
 - Education Leader @ 2nd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.03 ~ 2022.08)
 - Parttime Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
+- Operating Advisor @ 3rd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.09 ~ 2023.02)
 - Director of Operations @ [Central MakeUs Challenge Context Exhibit (CMC CX)](https://makeus.in/cmc) (2022.09 ~ 2022.11)
 - **Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ Current)**
 
