@@ -4,6 +4,7 @@
   
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
  [![Portfolio (Korean)](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
  
 
 ## Careers
