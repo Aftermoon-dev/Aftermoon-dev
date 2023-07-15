@@ -12,7 +12,7 @@
 - Research Assistant @ [Intelligent Networking and Computing Lab.](https://sites.google.com/gachon.ac.kr/inclab/), [School of Computing](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (Advisor: [Prof. Jaehyuk Choi](https://sites.google.com/gachon.ac.kr/inclab/team#h.si9zegtfi8r5), 2021.03 ~ 2022.06)
 - Education Leader, Android Part Leader @ 1st [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.09 ~ 2022.02)
 - Education Leader @ 2nd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.03 ~ 2022.08)
-- Education Manager (Part-time) @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
+- Part-time Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
 - Operating Advisor @ 3rd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.09 ~ 2023.02)
 - Director of Operations @ 2nd [Central MakeUs Challenge Contest Exhibit (CMC CX)](https://makeus.in/cmc) (2022.09 ~ 2022.11)
 - **Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ Current)**
@@ -35,6 +35,7 @@
   ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
