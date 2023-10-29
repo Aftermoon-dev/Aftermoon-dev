@@ -2,11 +2,9 @@
  
 👋 Hello! Welcome to My Github!
   
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddol0225@gmail.com)
- [![Portfolio (Korean)](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f)
+ <!-- [![Portfolio (Korean)](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f) -->
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
  
-
 ## Careers
 - Undergraduate Student @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
 - Research Assistant @ [Intelligent Networking and Computing Lab.](https://sites.google.com/gachon.ac.kr/inclab/), [School of Computing](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (Advisor: [Prof. Jaehyuk Choi](https://sites.google.com/gachon.ac.kr/inclab/team#h.si9zegtfi8r5), 2021.03 ~ 2022.06)
@@ -15,7 +13,8 @@
 - Part-time Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
 - Operating Advisor @ 3rd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.09 ~ 2023.02)
 - Director of Operations @ 2nd [Central MakeUs Challenge Contest Exhibit (CMC CX)](https://makeus.in/cmc) (2022.09 ~ 2022.11)
-- **Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ Current)**
+- Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ Current)
+- **Tech Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ Current)**
 
 ## Stats 
 <div align=center>
