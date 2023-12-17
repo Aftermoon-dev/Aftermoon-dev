@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minjae%20Seon%20(Aftermoon-dev)&fontSize=50&animation=fadeOut&fontAlignY=30)
  
 👋 Hello! Welcome to My Github!
+
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
  
 ## Careers
