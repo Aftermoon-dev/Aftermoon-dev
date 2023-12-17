@@ -1,17 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minjae%20Seon%20(Aftermoon-dev)&fontSize=50&animation=fadeOut&fontAlignY=30)
  
 👋 Hello! Welcome to My Github!
-  
- <!-- [![Portfolio (Korean)](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aftermoon-dev.notion.site/Minjae-Seon-79145f786f844ef481ba57d7cc65459f) -->
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
  
 ## Careers
 - Undergraduate Student @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
 - Research Assistant @ [Intelligent Networking and Computing Lab.](https://sites.google.com/gachon.ac.kr/inclab/), [School of Computing](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (Advisor: [Prof. Jaehyuk Choi](https://sites.google.com/gachon.ac.kr/inclab/team#h.si9zegtfi8r5), 2021.03 ~ 2022.06)
-- Education Leader, Android Part Leader @ 1st [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.09 ~ 2022.02)
-- Education Leader @ 2nd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.03 ~ 2022.08)
+- Education Leader @ 1st [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.09 ~ 2022.08)
 - Part-time Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
-- Operating Advisor @ 3rd [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2022.09 ~ 2023.02)
 - Director of Operations @ 2nd [Central MakeUs Challenge Contest Exhibit (CMC CX)](https://makeus.in/cmc) (2022.09 ~ 2022.11)
 - Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ 2023.12)
 - **Tech Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ Current)**
@@ -45,4 +41,5 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+ 
 </div>
