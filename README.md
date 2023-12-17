@@ -3,6 +3,9 @@
 👋 Hello! Welcome to My Github!
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
+
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true&theme=chartreuse-dark)](https://github.com/Aftermoon-dev/)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/Aftermoon-dev/)
  
 ## Careers
 - Undergraduate Student @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
@@ -13,14 +16,6 @@
   * Android / Server Trainer @ Rising Camp
 - Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ 2023.12)
 - **Tech Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ Current)**
-
-## Stats 
-<div align=center>
-
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true&theme=chartreuse-dark)](https://github.com/Aftermoon-dev/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/Aftermoon-dev/)
-  
-</div>
 
 ## Tech Stacks
 <div align="center">
