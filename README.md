@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minjae%20Seon%20(Aftermoon-dev)&fontSize=50&animation=fadeOut&fontAlignY=30)
- 
-👋 Hello! Welcome to My Github!
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Minjae%20Seon&fontSize=40&animation=fadeIn&fontAlignY=30)
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
-
- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true&theme=chartreuse-dark)](https://github.com/Aftermoon-dev/)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/Aftermoon-dev/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Aftermoon-dev&count_private=true&theme=chartreuse-dark)](https://github.com/Aftermoon-dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermoon-dev&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/Aftermoon-dev/)
  
 ## Careers
 - Undergraduate Student @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
@@ -15,7 +11,7 @@
   * Android / Server Trainer, Project Mentor @ Rising Programmer with [SeSAC (Seoul Software Academy)](https://sesac.seoul.kr/) 
   * Android / Server Trainer @ Rising Camp
 - Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ 2023.12)
-- **Tech Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ Current)**
+- **Techical Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ Current)**
 
 ## Tech Stacks
 <div align="center">
@@ -29,9 +25,9 @@
 
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -39,4 +35,11 @@
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  
+</div>
+
+## Contact
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae-seon-2948a91a1/)
+
 </div>
