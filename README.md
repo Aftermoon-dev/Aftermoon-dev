@@ -11,7 +11,7 @@
   * Android / Server Trainer, Project Mentor @ Rising Programmer with [SeSAC (Seoul Software Academy)](https://sesac.seoul.kr/) 
   * Android / Server Trainer @ Rising Camp
 - Education / Community Manager @ [Softsquared Inc.](https://softsquared.com) (2022.10 ~ 2023.12)
-- Technical Enginner @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ 2024.01)
+- Technical Engineer @ [Softsquared Inc.](https://softsquared.com) (2023.10 ~ 2024.01)
 - **Technical Lead @ [Softsquared Inc.](https://softsquared.com) (2024.01 ~ Current)**
 
 ## Tech Stacks
