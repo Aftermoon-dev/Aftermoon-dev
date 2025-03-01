@@ -6,7 +6,7 @@
 ## Careers
 - Undergraduate Student @ [Department of Software (School of Computing)](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (2019.03 ~ 2023.02)
 - Research Assistant @ [Intelligent Networking and Computing Lab.](https://sites.google.com/gachon.ac.kr/inclab/), [School of Computing](https://sw.gachon.ac.kr/), [Gachon University](https://gachon.ac.kr) (Advisor: [Prof. Jaehyuk Choi](https://sites.google.com/gachon.ac.kr/inclab/team#h.si9zegtfi8r5), 2021.03 ~ 2022.06)
-- Education Leader @ [University MakeUs Challenge (UMC)](https://makeus.in/umc) of Gachon University (2021.09 ~ 2022.08)
+- Education Leader @ [University MakeUs Challenge (UMC)](https://umc.makeus.in/) of Gachon University (2021.09 ~ 2022.08)
 - Part-time Education Manager @ [Softsquared Inc.](https://softsquared.com) (2022.07 ~ 2022.10)
   * Android / Server Trainer, Project Mentor @ Rising Programmer with [SeSAC (Seoul Software Academy)](https://sesac.seoul.kr/) 
   * Android / Server Trainer @ Rising Camp
